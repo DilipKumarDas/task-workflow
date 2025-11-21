@@ -1,0 +1,6 @@
+/home/dilipkumar/IdeaProjects/Task Tracker/src/main/java/com/sample/task_tracker/TaskTrackerApplication.java
+/home/dilipkumar/IdeaProjects/Task Tracker/src/main/java/com/sample/task_tracker/controller/Controller.java
+/home/dilipkumar/IdeaProjects/Task Tracker/src/main/java/com/sample/task_tracker/entity/Status.java
+/home/dilipkumar/IdeaProjects/Task Tracker/src/main/java/com/sample/task_tracker/entity/Task.java
+/home/dilipkumar/IdeaProjects/Task Tracker/src/main/java/com/sample/task_tracker/repository/TaskRepository.java
+/home/dilipkumar/IdeaProjects/Task Tracker/src/main/java/com/sample/task_tracker/service/TaskService.java
