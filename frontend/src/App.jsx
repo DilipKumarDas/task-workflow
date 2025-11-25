@@ -45,7 +45,7 @@ function App() {
                 }} >List All Tasks</button>
                 <SearchBar searchText={searchText} setSearchText={setSearchText} />
             </div>
-
+            <div><p>Please wait for some time when opening first time(The backend machine is in shutdown state)</p></div>
             <TaskList tasks={filteredTasks} reloadTasks={loadTasks} />
         </div>
     );
